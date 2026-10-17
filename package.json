@@ -1,0 +1,9 @@
+{
+  "name": "tgo-key-api",
+  "version": "1.0.0",
+  "description": "TGO Key System API",
+  "main": "api/index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
